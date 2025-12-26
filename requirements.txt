@@ -1,0 +1,7 @@
+Following libraries are required-
+
+numpy
+pandas
+scipy
+matplotlib.pyplot
+seaborn
