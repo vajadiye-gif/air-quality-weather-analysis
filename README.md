@@ -79,7 +79,7 @@ air-quality-weather-analysis/
 │
 ├── data/                          # Raw and cleaned datasets
 │   ├── raw/                       # Original Kaggle CSV files
-│   └── processed/                 # Cleaned and feature-engineered CSVs
+│   └── processed/                 # Cleaned and feature-engineered CSVs (Here the raw data is already filtered so both are same) 
 │
 ├── images/                        # Saved output figures
 │   ├── correlation_heatmap.png
