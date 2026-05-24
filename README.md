@@ -337,7 +337,7 @@ At p < 0.001, the null hypothesis (no linear relationship between PM2.5 and wind
 *Distribution of PM2.5, PM10, NO2 across cities — skewed distributions indicate episodic pollution events.*
 
 ![Scatter Plots](images/Scatter%20Plots.png)
-*Pairwise relationships between weather variables and pollutants.*
+*Pairwise Relationships between weather variables and pollutants.*
 
 ![City-wise Stats](images/City-wise%20stats.png)
 *Descriptive statistics across Indian cities per pollutant.*
