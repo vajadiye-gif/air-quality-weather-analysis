@@ -330,6 +330,21 @@ At p < 0.001, the null hypothesis (no linear relationship between PM2.5 and wind
 
 8. **Sangli's O3 anomaly.** Sangli has the lowest O3 in the dataset (39.0) and low PM values, yet ranks 3rd in NO2 (18.45). This decoupling suggests localized industrial NO2 sources without the precursor chemistry needed for ozone formation.
 
+![Correlation Heatmap](images/relation%20Heatmap.png)
+*PM2.5 shows moderate correlation with NO2 and PM10. Weather variables show weaker, city-dependent influence.*
+
+![Pollutant Distributions](images/Pollutant%20Distributions.png)
+*Distribution of PM2.5, PM10, NO2 across cities — skewed distributions indicate episodic pollution events.*
+
+![Scatter Plots](images/Scatter%20Plots.png)
+*Pairwise relationships between weather variables and pollutants.*
+
+![City-wise Stats](images/City-wise%20stats.png)
+*Descriptive statistics across Indian cities per pollutant.*
+
+![Averages](images/Averages.png)
+*City-level average AQI components.*
+
 ---
 
 ## Limitations and Future Work
